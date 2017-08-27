@@ -1,0 +1,7 @@
+#chahida-iecheck{ position:absolute; top:0px;left:0px;z-index:99;width:100%;height:auto;background:#ffffe1 url(../images/warning.png) 0 0 no-repeat;border-bottom:1px solid #999999;font-size:11px;visibility:hidden;color:#646464;}
+#chahida-iecheck p.msg{margin:0px 70px 0px 25px;padding:0px;}
+#chahida-iecheck div.close{position:absolute;top:0px;right:25px;color:#AA1428;cursor:pointer;}
+#chahida-iecheck img{vertical-align:middle;}
+#chahida-iecheck a:link,#chahida-iecheck a:visited{color:#AA1428;text-decoration:none;white-space:nowrap;}
+#chahida-iecheck a:hover{color:#FF0000;text-decoration:underline;}/* CSS Document */
+
